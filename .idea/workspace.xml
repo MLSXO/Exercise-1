@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c656f68b-3b23-495e-8d34-39d9ef7f1685" name="Changes" comment="Virker det her?" />
+    <list default="true" id="c656f68b-3b23-495e-8d34-39d9ef7f1685" name="Changes" comment="Virker det her?">
+      <change beforePath="$PROJECT_DIR$/Exercise1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise1.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +91,7 @@
       <workItem from="1787734365343" duration="396000" />
       <workItem from="1788938839704" duration="2649000" />
       <workItem from="1788941534461" duration="82000" />
+      <workItem from="1788941644753" duration="813000" />
     </task>
     <task id="LOCAL-00001" summary="Jeg har lavet en tekst">
       <option name="closed" value="true" />
